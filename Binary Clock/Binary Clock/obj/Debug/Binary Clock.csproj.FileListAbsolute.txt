@@ -1,0 +1,10 @@
+C:\Users\bogda\source\repos\Binary Clock\Binary Clock\bin\Debug\Binary Clock.exe.config
+C:\Users\bogda\source\repos\Binary Clock\Binary Clock\bin\Debug\Binary Clock.exe
+C:\Users\bogda\source\repos\Binary Clock\Binary Clock\bin\Debug\Binary Clock.pdb
+C:\Users\bogda\source\repos\Binary Clock\Binary Clock\obj\Debug\Binary Clock.csproj.AssemblyReference.cache
+C:\Users\bogda\source\repos\Binary Clock\Binary Clock\obj\Debug\Binary Clock.csproj.SuggestedBindingRedirects.cache
+C:\Users\bogda\source\repos\Binary Clock\Binary Clock\obj\Debug\Binary Clock.csproj.CoreCompileInputs.cache
+C:\Users\bogda\source\repos\Binary Clock\Binary Clock\obj\Debug\Binary Clock.exe
+C:\Users\bogda\source\repos\Binary Clock\Binary Clock\obj\Debug\Binary Clock.pdb
+C:\Users\bogda\source\repos\Binary Clock\Binary Clock\obj\Debug\Binary_Clock.Properties.Resources.resources
+C:\Users\bogda\source\repos\Binary Clock\Binary Clock\obj\Debug\Binary Clock.csproj.GenerateResource.cache
